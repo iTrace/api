@@ -1,0 +1,80 @@
+04162016_034201 | ReadAMark | info    | Creating the Read A Mark class
+04162016_034201 | ReadAMark | info    | ReadAMark->GetSerialNumberByCompany
+04162016_034201 | ReadAMark | info    | Calling ExtractDataFromImage()->GetDataFromMarkType()
+04162016_034201 | ReadAMark | info    | Decoder Flags=98
+04162016_034201 | ReadAMark | info    | Image information - Mark Type 82f - # of lines per side 8, # of bits per line 4, # of data bits 50, # of CRC bits 13, and # of data bits
+04162016_034201 | ReadAMark | info    | Decoder Flags Passed Into DecodeImage=98
+04162016_034201 | ReadAMark | info    | The image decoder successfully read the image.
+04162016_034201 | ReadAMark | info    | Entered UnscrambleDataForCompany
+04162016_034201 | ReadAMark | info    | Creating a bitstring for decoding
+04162016_034201 | ReadAMark | info    | Data Bits: 50
+04162016_034201 | ReadAMark | info    | CRC Bits: 13
+04162016_034201 | ReadAMark | info    | LoadBitScrambleAlgorithms Called
+04162016_034201 | ReadAMark | info    | Calling LoadConfiguration on ConfigAuth.cpp.
+04162016_034201 | ReadAMark | info    | Filename Built.
+04162016_034201 | ReadAMark | info    | Filename : C:\Development\orbid\development\solutions\2dmi_2.0\Projects\Orbid2DMIWebSite\resource\orbidlicense.olc
+04162016_034201 | ReadAMark | info    | Configuration File: orbidlicense.olc Loaded.
+04162016_034201 | ReadAMark | info    | LoadBitScrambleAlgorithms Section 1.
+04162016_034201 | ReadAMark | info    | Calling App Data Scheme : Index=0 CompanyId=3
+04162016_034201 | ReadAMark | info    | Called App Data Scheme : Index=0 CompanyId=3
+04162016_034201 | ReadAMark | info    | Calling App Data Scheme : Index=1 CompanyId=3
+04162016_034201 | ReadAMark | info    | Called App Data Scheme : Index=1 CompanyId=3
+04162016_034201 | ReadAMark | info    | Calling App Data Scheme : Index=2 CompanyId=3
+04162016_034201 | ReadAMark | info    | Called App Data Scheme : Index=2 CompanyId=3
+04162016_034201 | ReadAMark | info    | Calling App Data Scheme : Index=3 CompanyId=3
+04162016_034201 | ReadAMark | info    | Called App Data Scheme : Index=3 CompanyId=3
+04162016_034201 | ReadAMark | info    | Calling App Data Scheme : Index=4 CompanyId=3
+04162016_034201 | ReadAMark | info    | Called App Data Scheme : Index=4 CompanyId=3
+04162016_034201 | ReadAMark | info    | Calling App Data Scheme : Index=5 CompanyId=3
+04162016_034201 | ReadAMark | info    | Called App Data Scheme : Index=5 CompanyId=3
+04162016_034201 | ReadAMark | info    | Calling App Data Scheme : Index=6 CompanyId=3
+04162016_034201 | ReadAMark | info    | Called App Data Scheme : Index=6 CompanyId=3
+04162016_034201 | ReadAMark | info    | Calling App Data Scheme : Index=7 CompanyId=3
+04162016_034201 | ReadAMark | info    | Called App Data Scheme : Index=7 CompanyId=3
+04162016_034201 | ReadAMark | info    | Found 8 bitshuffle schemes for company 3
+04162016_034201 | ReadAMark | info    | End LoadBitScrambleAlgorithms
+04162016_034201 | ReadAMark | info    | bitstring bytes to copy 64
+04162016_034201 | ReadAMark | info    | Bitstring: After Set Bytes: 1576259869579673601
+04162016_034201 | ReadAMark | info    | Bitstring CRCs:1400
+04162016_034201 | ReadAMark | info    | Bitstring: After VerifyAppCRC: 1
+04162016_034201 | ReadAMark | info    | Decoded serial number 1 for company 3
+04162016_034553 | ReadAMark | info    | ReadAMark->GetSerialNumberByCompany
+04162016_034553 | ReadAMark | info    | Calling ExtractDataFromImage()->GetDataFromMarkType()
+04162016_034553 | ReadAMark | info    | Decoder Flags=98
+04162016_034553 | ReadAMark | info    | Image information - Mark Type 82f - # of lines per side 8, # of bits per line 4, # of data bits 50, # of CRC bits 13, and # of data bits
+04162016_034553 | ReadAMark | info    | Decoder Flags Passed Into DecodeImage=98
+04162016_034553 | ReadAMark | info    | The image decoder successfully read the image.
+04162016_034553 | ReadAMark | info    | Entered UnscrambleDataForCompany
+04162016_034553 | ReadAMark | info    | Creating a bitstring for decoding
+04162016_034553 | ReadAMark | info    | Data Bits: 50
+04162016_034553 | ReadAMark | info    | CRC Bits: 13
+04162016_034553 | ReadAMark | info    | LoadBitScrambleAlgorithms Called
+04162016_034553 | ReadAMark | info    | Calling LoadConfiguration on ConfigAuth.cpp.
+04162016_034553 | ReadAMark | info    | Filename Built.
+04162016_034553 | ReadAMark | info    | Filename : C:\Development\orbid\development\solutions\2dmi_2.0\Projects\Orbid2DMIWebSite\resource\orbidlicense.olc
+04162016_034553 | ReadAMark | info    | Configuration File: orbidlicense.olc Loaded.
+04162016_034553 | ReadAMark | info    | LoadBitScrambleAlgorithms Section 1.
+04162016_034553 | ReadAMark | info    | Calling App Data Scheme : Index=0 CompanyId=3
+04162016_034553 | ReadAMark | info    | Called App Data Scheme : Index=0 CompanyId=3
+04162016_034553 | ReadAMark | info    | Calling App Data Scheme : Index=1 CompanyId=3
+04162016_034553 | ReadAMark | info    | Called App Data Scheme : Index=1 CompanyId=3
+04162016_034553 | ReadAMark | info    | Calling App Data Scheme : Index=2 CompanyId=3
+04162016_034553 | ReadAMark | info    | Called App Data Scheme : Index=2 CompanyId=3
+04162016_034553 | ReadAMark | info    | Calling App Data Scheme : Index=3 CompanyId=3
+04162016_034553 | ReadAMark | info    | Called App Data Scheme : Index=3 CompanyId=3
+04162016_034553 | ReadAMark | info    | Calling App Data Scheme : Index=4 CompanyId=3
+04162016_034553 | ReadAMark | info    | Called App Data Scheme : Index=4 CompanyId=3
+04162016_034553 | ReadAMark | info    | Calling App Data Scheme : Index=5 CompanyId=3
+04162016_034553 | ReadAMark | info    | Called App Data Scheme : Index=5 CompanyId=3
+04162016_034553 | ReadAMark | info    | Calling App Data Scheme : Index=6 CompanyId=3
+04162016_034553 | ReadAMark | info    | Called App Data Scheme : Index=6 CompanyId=3
+04162016_034553 | ReadAMark | info    | Calling App Data Scheme : Index=7 CompanyId=3
+04162016_034553 | ReadAMark | info    | Called App Data Scheme : Index=7 CompanyId=3
+04162016_034553 | ReadAMark | info    | Found 8 bitshuffle schemes for company 3
+04162016_034553 | ReadAMark | info    | End LoadBitScrambleAlgorithms
+04162016_034553 | ReadAMark | info    | bitstring bytes to copy 64
+04162016_034553 | ReadAMark | info    | Bitstring: After Set Bytes: 1576259869579673601
+04162016_034553 | ReadAMark | info    | Bitstring CRCs:1400
+04162016_034553 | ReadAMark | info    | Bitstring: After VerifyAppCRC: 1
+04162016_034553 | ReadAMark | info    | Decoded serial number 1 for company 3
+04162016_034939 | ReadAMark | info    | Destroying the Read A Mark class
